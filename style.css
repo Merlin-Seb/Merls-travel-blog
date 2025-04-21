@@ -32,6 +32,12 @@ body {
     margin-bottom: 1rem;
     color: #2e7d32;
   }
+
+  .card-img-top {
+    height: 250px; /* or whatever height you prefer */
+    object-fit: cover;
+  }
+  
   
   /* Footer */
   footer {
