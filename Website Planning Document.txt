@@ -1,0 +1,17 @@
+# Website Planning Document
+
+Title: Kerala Travel Blog
+
+Purpose: To showcase the culture, food, and beautiful destinations of Kerala through a personal travel blog.
+
+Audience: Travelers, students, or anyone curious about Kerala.
+
+Content Goals:
+- Highlight key destinations with visuals and links to things to do in those places
+- Share traditional culture and food with descriptions and images
+- Include a contact form for feedback and queries (using Formspree)
+
+Tools:
+- HTML5, CSS, Bootstrap 5
+- Images hosted locally
+- GitHub Pages for deployment
