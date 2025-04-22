@@ -1,0 +1,20 @@
+# Design Overview
+
+Page Structure:
+
+1. index.html
+- Hero section with image and intro
+- 3 cards linking to Destinations, Culture & Food, Travel Tips
+But travel tips will be under construction
+
+2. destinations.html
+- Grid layout with 6 cards
+- Each card links to a Tripadvisor page
+
+3. culture.html
+- Section describing festivals and traditional food
+
+Design Notes:
+- Green theme (Bootstrap success)
+- Mobile responsive using Bootstrap grid
+- Simple navbar + footer for all pages
