@@ -20,12 +20,14 @@ body {
   
   /* Hero Section */
   header {
-    background-image: url('https://source.unsplash.com/1600x600/?kerala,backwaters');
+    background-image: url("waterfall.jpeg");
     background-size: cover;
     background-position: center;
     color: white;
     text-shadow: 2px 2px 5px rgba(0,0,0,0.6);
   }
+
+
   
   /* Section Titles */
   h2 {
@@ -36,6 +38,37 @@ body {
   .card-img-top {
     height: 250px; /* or whatever height you prefer */
     object-fit: cover;
+  }
+  
+  .destinations-container {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .destination-card {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #fff;
+  }
+  
+  .destination-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .destination-card h2 {
+    margin: 10px 0 5px;
+  }
+  
+  .destination-card p {
+    padding: 0 15px 15px;
+    font-size: 0.9rem;
+    color: #333;
   }
   
   
